@@ -1,0 +1,147 @@
+eeschema (2011-oct-15)-testing  >> Creation date: Sun 11 Dec 2011 07:47:42 PM EST
+
+#Cmp ( order = Reference ) (with SubCmp)
+| C101       .1uF        ;             
+| C102       .1uF        ;             
+| C103       .1uF           (Sheet /)   (loc C2);             
+| C104       .1uF           (Sheet /)   (loc B4);             
+| C105       .1uF        ;             
+| C106       1F          ;             
+| C201       .1uF        ;             
+| C301       22pF        ;             
+| C302       22pF        ;             
+| C303       .1uF        ;             
+| C304       .1uF        ;             
+| C305       .1uF        ;             
+| C306       .1uF        ;             
+| C307       .1uF        ;             
+| C401       .1uF        ;             
+| C402       .1uF        ;             
+| C403       .1uF        ;             
+| C501       1uF         ;             
+| C502       1uF         ;             
+| C503       1uF         ;             
+| D301       ZENER       ;             
+| FB301      FILTER      ;             
+| IC301      ATMEGA1280-A; TQFP100     
+| J301       ISP         ;             
+| JP101      UART        ;             
+| JP102      UART        ;             
+| JP103      UART        ;             
+| JP104      UART        ;             
+| JP201      ADDRSELECT  ;             
+| JP202      ADDRSELECT  ;             
+| JP203      ADDRSELECT  ;             
+| JP301      FTDI_BASICPTH; SparkFun-FTDI_BASIC
+| JP302      JUMPER      ;             
+| JP303      GND_CONNECT ;             
+| P101       CONN_1      ;             
+| P102       CONN_6      ;             
+| P103       CONN_6      ;             
+| P401       WSBUS       ;             
+| P402       WSBUS       ;             
+| P403       WSBUS       ;             
+| Q101       NPN         ;             
+| Q102       FDC6324LCT     (Sheet /)   (loc C2);             
+| Q103       FDC6324LCT     (Sheet /)   (loc B5);             
+| Q104       FDC6324LCT  ;             
+| R101       10K         ;             
+| R102       100k           (Sheet /)   (loc C1);             
+| R103       10k            (Sheet /)   (loc C2);             
+| R104       10k            (Sheet /)   (loc B4);             
+| R105       10k         ;             
+| R106       100k           (Sheet /)   (loc B5);             
+| R107       100k        ;             
+| R108       10k         ;             
+| R301       330         ;             
+| R302       10k         ;             
+| R303       4.7k        ;             
+| R304       4.7k        ;             
+| R401       4.7K        ;             
+| R402       4.7K        ;             
+| R403       4.7k        ;             
+| R404       4.7k        ;             
+| R501       10k         ;             
+| SW301      RESET       ;             
+| U101       XBEE        ;             
+| U102       WRT9602     ;             
+| U201       24LC512T    ;             
+| U401       P82B96      ;             
+| U501       74HC573D    ;             
+| U502       AS7C4096A   ;             
+| X301       16MHZ       ;             
+#End Cmp
+
+#Cmp ( order = Value ) (with SubCmp)
+| .1uF         C101      ;             
+| .1uF         C102      ;             
+| .1uF         C103         (Sheet /)   (loc C2);             
+| .1uF         C104         (Sheet /)   (loc B4);             
+| .1uF         C105      ;             
+| .1uF         C201      ;             
+| .1uF         C303      ;             
+| .1uF         C304      ;             
+| .1uF         C305      ;             
+| .1uF         C306      ;             
+| .1uF         C307      ;             
+| .1uF         C401      ;             
+| .1uF         C402      ;             
+| .1uF         C403      ;             
+| 100k         R102         (Sheet /)   (loc C1);             
+| 100k         R106         (Sheet /)   (loc B5);             
+| 100k         R107      ;             
+| 10K          R101      ;             
+| 10k          R103         (Sheet /)   (loc C2);             
+| 10k          R104         (Sheet /)   (loc B4);             
+| 10k          R105      ;             
+| 10k          R108      ;             
+| 10k          R302      ;             
+| 10k          R501      ;             
+| 16MHZ        X301      ;             
+| 1F           C106      ;             
+| 1uF          C501      ;             
+| 1uF          C502      ;             
+| 1uF          C503      ;             
+| 22pF         C301      ;             
+| 22pF         C302      ;             
+| 24LC512T     U201      ;             
+| 330          R301      ;             
+| 4.7k         R303      ;             
+| 4.7k         R304      ;             
+| 4.7K         R401      ;             
+| 4.7K         R402      ;             
+| 4.7k         R403      ;             
+| 4.7k         R404      ;             
+| 74HC573D     U501      ;             
+| ADDRSELECT   JP201     ;             
+| ADDRSELECT   JP202     ;             
+| ADDRSELECT   JP203     ;             
+| AS7C4096A    U502      ;             
+| ATMEGA1280-A IC301     ; TQFP100     
+| CONN_1       P101      ;             
+| CONN_6       P102      ;             
+| CONN_6       P103      ;             
+| FDC6324LCT   Q102         (Sheet /)   (loc C2);             
+| FDC6324LCT   Q103         (Sheet /)   (loc B5);             
+| FDC6324LCT   Q104      ;             
+| FILTER       FB301     ;             
+| FTDI_BASICPTH JP301     ; SparkFun-FTDI_BASIC
+| GND_CONNECT  JP303     ;             
+| ISP          J301      ;             
+| JUMPER       JP302     ;             
+| NPN          Q101      ;             
+| P82B96       U401      ;             
+| RESET        SW301     ;             
+| UART         JP101     ;             
+| UART         JP102     ;             
+| UART         JP103     ;             
+| UART         JP104     ;             
+| WRT9602      U102      ;             
+| WSBUS        P401      ;             
+| WSBUS        P402      ;             
+| WSBUS        P403      ;             
+| XBEE         U101      ;             
+| ZENER        D301      ;             
+#End Cmp
+
+#End List

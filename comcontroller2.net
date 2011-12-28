@@ -1,0 +1,821 @@
+# EESchema Netlist Version 1.1 created  Wed 28 Dec 2011 12:34:16 AM EST
+(
+ ( /4EE6CB3F SparkFun-0805 C101 C
+  ( 1 DGND )
+  ( 2 +5V )
+ )
+ ( /4EE6CB47 SparkFun-0805 C102 C
+  ( 1 DGND )
+  ( 2 +5V )
+ )
+ ( /4EE6CB51 SparkFun-0805 C103 C
+  ( 1 DGND )
+  ( 2 +5V )
+ )
+ ( /4EE6CB57 SparkFun-0805 C104 C
+  ( 1 DGND )
+  ( 2 +5V )
+ )
+ ( /4EE6CB5C SparkFun-0805 C105 C
+  ( 1 DGND )
+  ( 2 +5V )
+ )
+ ( /4EE6CB62 SparkFun-0805 C106 C
+  ( 1 DGND )
+  ( 2 +5V )
+ )
+ ( /4EE6CBB0 SparkFun-CAP-PTH-5MM C107 CP1
+  ( 1 +5V )
+  ( 2 DGND )
+ )
+ ( /4EE6CBB9 SparkFun-CAP-PTH-LARGE C108 CP1
+  ( 1 +5V )
+  ( 2 DGND )
+ )
+ ( /4EE46080 SG-CAP-V C109 1F
+  ( 1 +5V )
+  ( 2 DGND )
+ )
+ ( /4EE793B2 SparkFun-0805 C110 1uF
+  ( 1 DGND )
+  ( 2 +12V )
+ )
+ ( /4EE54A4B SparkFun-0805 C111 .1uF
+  ( 1 DGND )
+  ( 2 N-000038 )
+ )
+ ( /4EE5473B SparkFun-0805 C112 .1uF
+  ( 1 DGND )
+  ( 2 N-000033 )
+ )
+ ( /4EE2B6AE SparkFun-0805 C113 .1uF
+  ( 1 +3.3V )
+  ( 2 DGND )
+ )
+ ( /4EE28B11 SparkFun-0805 C114 .1uF
+  ( 1 N-000102 )
+  ( 2 N-000104 )
+ )
+ ( /4EE54ABE SparkFun-0805 C115 .1uF
+  ( 1 N-000110 )
+  ( 2 N-000040 )
+ )
+ ( /4EDEEACB/4EDEF659 SparkFun-0805 C201 .1uF
+  ( 1 +3.3V )
+  ( 2 DGND )
+ )
+ ( /4ED839D2/4EDAB81D SparkFun-0805 C301 .1uF
+  ( 1 AGND )
+  ( 2 N-000130 )
+ )
+ ( /4ED839D2/4EDA8AC6 SparkFun-0805 C302 .1uF
+  ( 1 DGND )
+  ( 2 +3.3V )
+ )
+ ( /4ED839D2/4EDAB811 SparkFun-0805 C303 .1uF
+  ( 1 DGND )
+  ( 2 +3.3V )
+ )
+ ( /4ED839D2/4EDAB816 SparkFun-0805 C304 .1uF
+  ( 1 DGND )
+  ( 2 +3.3V )
+ )
+ ( /4ED839D2/4EDA8ABA SparkFun-0805 C305 .1uF
+  ( 1 DGND )
+  ( 2 /avr2560/RESET )
+ )
+ ( /4ED839D2/4EDB29EA SparkFun-0805 C306 22pF
+  ( 1 N-000131 )
+  ( 2 DGND )
+ )
+ ( /4ED839D2/4EDB29E5 SparkFun-0805 C307 22pF
+  ( 1 N-000125 )
+  ( 2 DGND )
+ )
+ ( /4EDD7702/4EDD8661 SparkFun-0805 C401 .1uF
+  ( 1 +12V )
+  ( 2 DGND )
+ )
+ ( /4EDD7702/4EDD8658 SparkFun-0805 C402 .1uF
+  ( 1 +3.3V )
+  ( 2 DGND )
+ )
+ ( /4EDD7702/4EDD864E SparkFun-0805 C403 .1uF
+  ( 1 +5V )
+  ( 2 DGND )
+ )
+ ( /4ED7D7C6/4EE1B900 SparkFun-0805 C501 1uF
+  ( 1 +5V )
+  ( 2 DGND )
+ )
+ ( /4ED7D7C6/4EE272DB SparkFun-0805 C502 1uF
+  ( 1 +5V )
+  ( 2 DGND )
+ )
+ ( /4ED7D7C6/4EE2730E SparkFun-0805 C503 1uF
+  ( 1 DGND )
+  ( 2 +5V )
+ )
+ ( /4ED839D2/4EDB38BE SparkFun-0805 D301 ZENER
+  ( 1 /avr2560/RESET )
+  ( 2 +3.3V )
+ )
+ ( /4ED839D2/4EE43FA4 SparkFun-0805 FB301 FILTER
+  ( 1 +3.3V )
+  ( 2 N-000130 )
+ )
+ ( /4ED839D2/4EDA839F SparkFun-TQFP-100-14X14MM IC301 ATMEGA1280-A
+  ( 1 ? )
+  ( 2 /avr2560/RX0 )
+  ( 3 /avr2560/TX0 )
+  ( 4 ? )
+  ( 5 ? )
+  ( 6 /avr2560/PE4/2 )
+  ( 7 ? )
+  ( 8 ? )
+  ( 9 ? )
+  ( 10 +3.3V )
+  ( 11 DGND )
+  ( 12 /avr2560/RX2 )
+  ( 13 /avr2560/TX2 )
+  ( 14 ? )
+  ( 15 ? )
+  ( 16 ? )
+  ( 17 ? )
+  ( 18 ? )
+  ( 19 /avr2560/PB0/53 )
+  ( 20 /avr2560/PB1/52 )
+  ( 21 /avr2560/PB2/51 )
+  ( 22 /avr2560/PB3/50 )
+  ( 23 /avr2560/PB4/10 )
+  ( 24 /avr2560/PB5/11 )
+  ( 25 /avr2560/PB6/12 )
+  ( 26 ? )
+  ( 27 ? )
+  ( 28 ? )
+  ( 29 ? )
+  ( 30 /avr2560/RESET )
+  ( 31 +3.3V )
+  ( 32 DGND )
+  ( 33 N-000131 )
+  ( 34 N-000125 )
+  ( 35 /avr2560/PL0/49 )
+  ( 36 /avr2560/PL1/48 )
+  ( 37 /avr2560/PL2/47 )
+  ( 38 /avr2560/PL3/46 )
+  ( 39 /avr2560/PL4/45 )
+  ( 40 /avr2560/PL5/44 )
+  ( 41 /avr2560/PL6/43 )
+  ( 42 /avr2560/PL7/42 )
+  ( 43 /avr2560/SCL )
+  ( 44 /avr2560/SDA )
+  ( 45 /avr2560/RX1 )
+  ( 46 /avr2560/TX1 )
+  ( 47 ? )
+  ( 48 ? )
+  ( 49 ? )
+  ( 50 /avr2560/PD7/38 )
+  ( 51 /avr2560/PG0/41 )
+  ( 52 /avr2560/PG1/40 )
+  ( 53 /avr2560/PC0/37 )
+  ( 54 /avr2560/PC1/36 )
+  ( 55 /avr2560/PC2/35 )
+  ( 56 /avr2560/PC3/34 )
+  ( 57 /avr2560/PC4/33 )
+  ( 58 /avr2560/PC5/32 )
+  ( 59 /avr2560/PC6/31 )
+  ( 60 /avr2560/PC7/30 )
+  ( 62 DGND )
+  ( 63 /avr2560/RX3 )
+  ( 64 /avr2560/TX3 )
+  ( 65 ? )
+  ( 66 ? )
+  ( 67 ? )
+  ( 68 ? )
+  ( 69 ? )
+  ( 70 /avr2560/PG2/39 )
+  ( 71 /avr2560/PA7/29 )
+  ( 72 /avr2560/PA6/28 )
+  ( 73 /avr2560/PA5/27 )
+  ( 74 /avr2560/PA4/26 )
+  ( 75 /avr2560/PA3/25 )
+  ( 76 /avr2560/PA2/24 )
+  ( 77 /avr2560/PA1/23 )
+  ( 78 /avr2560/PA0/22 )
+  ( 79 ? )
+  ( 80 +3.3V )
+  ( 81 DGND )
+  ( 82 ? )
+  ( 83 ? )
+  ( 84 ? )
+  ( 85 ? )
+  ( 86 ? )
+  ( 87 ? )
+  ( 88 ? )
+  ( 89 ? )
+  ( 90 ? )
+  ( 91 ? )
+  ( 92 ? )
+  ( 93 ? )
+  ( 94 ? )
+  ( 95 ? )
+  ( 96 ? )
+  ( 97 ? )
+  ( 98 ? )
+  ( 99 AGND )
+  ( 100 N-000130 )
+ )
+ ( /4ED839D2/4EDB2278 SparkFun-2X3_LOCK J301 ISP
+  ( 1 /avr2560/PB3/50 )
+  ( 2 +3.3V )
+  ( 3 /avr2560/PB1/52 )
+  ( 4 /avr2560/PB2/51 )
+  ( 5 /avr2560/RESET )
+  ( 6 DGND )
+ )
+ ( /4EE4524B SparkFun-SJ_3 JP101 UART
+  ( 1 +3.3V )
+  ( 2 N-000110 )
+  ( 3 /XBEEPWR )
+ )
+ ( /4EE282E9 SparkFun-SJ_3 JP102 UART
+  ( 1 /avr2560/TX0 )
+  ( 2 /avr2560/TX3 )
+  ( 3 /XRX )
+ )
+ ( /4EE282F3 SparkFun-SJ_3 JP103 UART
+  ( 1 /avr2560/RX0 )
+  ( 2 /avr2560/RX3 )
+  ( 3 /XTX )
+ )
+ ( /4EE4505E SparkFun-SJ_3 JP104 UART
+  ( 1 N-000102 )
+  ( 2 /avr2560/PL0/49 )
+  ( 3 /DI8 )
+ )
+ ( /4EEADB97 SparkFun-SJ-NC JP105 JUMPER
+  ( 1 DGND )
+  ( 2 /SIG_GND )
+ )
+ ( /4EDEEACB/4EDEF239 SparkFun-SJ_3 JP201 ADDRSELECT
+  ( 1 +3.3V )
+  ( 2 DGND )
+  ( 3 N-000147 )
+ )
+ ( /4EDEEACB/4EDEF2BE SparkFun-SJ_3 JP202 ADDRSELECT
+  ( 1 +3.3V )
+  ( 2 DGND )
+  ( 3 N-000146 )
+ )
+ ( /4EDEEACB/4EDEF246 SparkFun-SJ_3 JP203 ADDRSELECT
+  ( 1 +3.3V )
+  ( 2 DGND )
+  ( 3 N-000145 )
+ )
+ ( /4ED839D2/4EDB2040 SparkFun-GND_CONNECT JP301 GND_CONNECT
+  ( 1 DGND )
+  ( 2 AGND )
+  ( 3 DGND )
+ )
+ ( /4ED839D2/4EE287EE SparkFun-SJ-NC JP302 JUMPER
+  ( 1 N-000123 )
+  ( 2 +3.3V )
+ )
+ ( /4ED839D2/4EE28718 SparkFun-FTDI_BASIC JP303 FTDI_BASICPTH
+  ( CTS DGND )
+  ( DTR /avr2560/RESET )
+  ( GND DGND )
+  ( RXI /avr2560/TX0 )
+  ( TXO /avr2560/RX0 )
+  ( VCC N-000123 )
+ )
+ ( /4EE29ADA SparkFun-MOLEX-1X6_LOCK P102 CONN_6
+  ( 1 /avr2560/RX2 )
+  ( 2 /avr2560/TX2 )
+  ( 3 N-000036 )
+  ( 4 +5V )
+  ( 5 +3.3V )
+  ( 6 +12V )
+ )
+ ( /4EE29ADD SparkFun-MOLEX-1X6_LOCK P103 CONN_6
+  ( 1 /avr2560/RX3 )
+  ( 2 /avr2560/TX3 )
+  ( 3 N-000103 )
+  ( 4 +5V )
+  ( 5 +3.3V )
+  ( 6 +12V )
+ )
+ ( /4EDD7702/4EE2D9C4 MOLEX-1X8_LOCK P401 WSBUS
+  ( 3.3V +3.3V )
+  ( 5V +5V )
+  ( 12V +12V )
+  ( GND DGND )
+  ( GPIO /WSBUS/WSGPIO )
+  ( SCL SCL )
+  ( SDA SDA )
+ )
+ ( /4EDD7702/4EE2D995 MOLEX-1X8_LOCK P402 WSBUS
+  ( 3.3V +3.3V )
+  ( 5V +5V )
+  ( 12V +12V )
+  ( GND DGND )
+  ( GPIO /WSBUS/WSGPIO )
+  ( SCL SCL )
+  ( SDA SDA )
+ )
+ ( /4EDD7702/4EE2D9B3 MOLEX-1X8_LOCK P403 WSBUS
+  ( 3.3V +3.3V )
+  ( 5V +5V )
+  ( 12V +12V )
+  ( GND DGND )
+  ( GPIO /WSBUS/WSGPIO )
+  ( SCL SCL )
+  ( SDA SDA )
+ )
+ ( /4EE6B957 SSOP6 Q101 FDC6324L
+  ( 1 N-000035 )
+  ( 2 DGND )
+  ( 3 DGND )
+  ( 4 N-000036 )
+  ( 5 /avr2560/PB5/11 )
+  ( 6 N-000038 )
+ )
+ ( /4EE6B960 SSOP6 Q102 FDC6324L
+  ( 1 N-000111 )
+  ( 2 DGND )
+  ( 3 DGND )
+  ( 4 N-000103 )
+  ( 5 /avr2560/PB6/12 )
+  ( 6 N-000033 )
+ )
+ ( /4EE28AE3 SparkFun-SOT23-3 Q103 NPN
+  ( 1 DGND )
+  ( 2 N-000104 )
+  ( 3 /avr2560/RESET )
+ )
+ ( /4EE6B969 SSOP6 Q104 FDC6324L
+  ( 1 N-000039 )
+  ( 2 N-000110 )
+  ( 3 N-000110 )
+  ( 4 +3.3V )
+  ( 5 /avr2560/PL4/45 )
+  ( 6 N-000040 )
+ )
+ ( /4EE2E890 SparkFun-0805 R101 10k
+  ( 1 N-000090 )
+  ( 2 +3.3V )
+ )
+ ( /4EE54A4E SparkFun-0805 R102 10k
+  ( 1 DGND )
+  ( 2 N-000035 )
+ )
+ ( /4EE54A4D SparkFun-0805 R103 100k
+  ( 1 N-000038 )
+  ( 2 N-000036 )
+ )
+ ( /4EE29B80 SparkFun-0805 R104 10k
+  ( 1 DGND )
+  ( 2 N-000111 )
+ )
+ ( /4EE29B81 SparkFun-0805 R105 100k
+  ( 1 N-000033 )
+  ( 2 N-000103 )
+ )
+ ( /4EE28B26 SparkFun-0805 R106 10K
+  ( 1 N-000104 )
+  ( 2 DGND )
+ )
+ ( /4EE54AC0 SparkFun-0805 R107 100k
+  ( 1 N-000040 )
+  ( 2 +3.3V )
+ )
+ ( /4EE54AC1 SparkFun-0805 R108 10k
+  ( 1 DGND )
+  ( 2 N-000039 )
+ )
+ ( /4ED839D2/4EDABD3B SparkFun-0805 R301 10k
+  ( 1 +3.3V )
+  ( 2 /avr2560/RESET )
+ )
+ ( /4ED839D2/4EDB1BB2 SparkFun-0805 R302 330
+  ( 1 /avr2560/RESET )
+  ( 2 DGND )
+ )
+ ( /4ED839D2/4EDB56C8 SparkFun-0805 R303 4.7k
+  ( 1 +3.3V )
+  ( 2 /avr2560/SCL )
+ )
+ ( /4ED839D2/4EDB56CF SparkFun-0805 R304 4.7k
+  ( 1 +3.3V )
+  ( 2 /avr2560/SDA )
+ )
+ ( /4EDD7702/4EDD9805 SparkFun-0805 R401 4.7k
+  ( 1 +3.3V )
+  ( 2 SDA )
+ )
+ ( /4EDD7702/4EDD9D1E SparkFun-0805 R402 4.7K
+  ( 1 +3.3V )
+  ( 2 /avr2560/SDA )
+ )
+ ( /4EDD7702/4EDD9D26 SparkFun-0805 R403 4.7K
+  ( 1 +3.3V )
+  ( 2 /eeprom/SCL )
+ )
+ ( /4EDD7702/4EDD983E SparkFun-0805 R404 4.7k
+  ( 1 +3.3V )
+  ( 2 SCL )
+ )
+ ( /4ED7D7C6/4EE27258 SparkFun-0805 R501 10k
+  ( 1 /avr2560/PD7/38 )
+  ( 2 +5V )
+ )
+ ( /4ED839D2/4EDB1BEE SW_PUSH_SMALL SW301 RESET
+  ( 1 DGND )
+  ( 2 DGND )
+ )
+ ( /4EE299F7 9602 U101 WRT9602
+  ( 1 +5V )
+  ( 2 +5V )
+  ( 3 DGND )
+  ( 4 DGND )
+  ( 5 /avr2560/PB1/52 )
+  ( 6 /avr2560/TX1 )
+  ( 7 /avr2560/RX1 )
+  ( 8 /SIG_GND )
+  ( 9 ? )
+  ( 10 /avr2560/PB2/51 )
+  ( 11 /avr2560/PB3/50 )
+  ( 12 /avr2560/PE4/2 )
+  ( 13 /avr2560/PB4/10 )
+  ( 14 N-000090 )
+  ( 15 /SIG_GND )
+  ( 16 ? )
+  ( 17 ? )
+  ( 18 /SIG_GND )
+  ( 19 /avr2560/PB0/53 )
+  ( 20 ? )
+ )
+ ( /4EE2B34E SparkFun-XBEE-SMD U102 XBEE
+  ( 1 /XBEEPWR )
+  ( 2 /XTX )
+  ( 3 /XRX )
+  ( 4 ? )
+  ( 5 ? )
+  ( 6 ? )
+  ( 7 ? )
+  ( 8 ? )
+  ( 9 /DI8 )
+  ( 10 DGND )
+  ( 11 ? )
+  ( 12 ? )
+  ( 13 /avr2560/PL1/48 )
+  ( 14 ? )
+  ( 15 /avr2560/PL3/46 )
+  ( 16 /avr2560/PL2/47 )
+  ( 17 ? )
+  ( 18 ? )
+  ( 19 ? )
+  ( 20 ? )
+ )
+ ( /4EDEEACB/4EDEEAF8 SparkFun-SOIC8 U201 24LC512T
+  ( 1 N-000147 )
+  ( 2 N-000146 )
+  ( 3 N-000145 )
+  ( 4 DGND )
+  ( 5 /avr2560/SDA )
+  ( 6 /eeprom/SCL )
+  ( 7 DGND )
+  ( 8 +3.3V )
+ )
+ ( /4EDD7702/4EDD941C SparkFun-TSSOP8 U401 P82B96
+  ( 1 /avr2560/SDA )
+  ( 2 SDA )
+  ( 3 SDA )
+  ( 4 DGND )
+  ( 5 SCL )
+  ( 6 SCL )
+  ( 7 /eeprom/SCL )
+  ( 8 +3.3V )
+ )
+ ( /4ED7D7C6/4EE474ED SSOP20 U501 74HC573D
+  ( 1 DGND )
+  ( 2 /avr2560/PA0/22 )
+  ( 3 /avr2560/PA1/23 )
+  ( 4 /avr2560/PA2/24 )
+  ( 5 /avr2560/PA3/25 )
+  ( 6 /avr2560/PA4/26 )
+  ( 7 /avr2560/PA5/27 )
+  ( 8 /avr2560/PA6/28 )
+  ( 9 /avr2560/PA7/29 )
+  ( 10 DGND )
+  ( 11 /avr2560/PG2/39 )
+  ( 12 N-000113 )
+  ( 13 N-000120 )
+  ( 14 N-000114 )
+  ( 15 N-000119 )
+  ( 16 N-000115 )
+  ( 17 N-000118 )
+  ( 18 N-000116 )
+  ( 19 N-000117 )
+  ( 20 +5V )
+ )
+ ( /4ED7D7C6/4ED80571 SOJ36-MP U502 AS7C4096A
+  ( 1 N-000117 )
+  ( 2 N-000116 )
+  ( 3 N-000118 )
+  ( 4 N-000115 )
+  ( 5 N-000119 )
+  ( 6 /avr2560/PD7/38 )
+  ( 7 /avr2560/PA0/22 )
+  ( 8 /avr2560/PA1/23 )
+  ( 9 +5V )
+  ( 10 DGND )
+  ( 11 /avr2560/PA2/24 )
+  ( 12 /avr2560/PA3/25 )
+  ( 13 /avr2560/PG0/41 )
+  ( 14 N-000114 )
+  ( 15 N-000120 )
+  ( 16 N-000113 )
+  ( 17 /avr2560/PC0/37 )
+  ( 18 /avr2560/PC1/36 )
+  ( 19 ? )
+  ( 20 /avr2560/PC2/35 )
+  ( 21 /avr2560/PC3/34 )
+  ( 22 /avr2560/PC4/33 )
+  ( 23 /avr2560/PC5/32 )
+  ( 24 /avr2560/PC6/31 )
+  ( 25 /avr2560/PA4/26 )
+  ( 26 /avr2560/PA5/27 )
+  ( 27 +5V )
+  ( 28 DGND )
+  ( 29 /avr2560/PA6/28 )
+  ( 30 /avr2560/PA7/29 )
+  ( 31 /avr2560/PG1/40 )
+  ( 32 /avr2560/PC7/30 )
+  ( 33 /avr2560/PL5/44 )
+  ( 34 /avr2560/PL6/43 )
+  ( 35 /avr2560/PL7/42 )
+  ( 36 ? )
+ )
+ ( /4ED839D2/4EDB2A1C SparkFun-CRYSTAL-OSC-SMD-5X3 X301 16MHZ
+  ( 1 N-000131 )
+  ( 2 N-000125 )
+ )
+)
+*
+{ Allowed footprints by component:
+$component C101
+ SM*
+ C?
+ C1-1
+$endlist
+$component C102
+ SM*
+ C?
+ C1-1
+$endlist
+$component C103
+ SM*
+ C?
+ C1-1
+$endlist
+$component C104
+ SM*
+ C?
+ C1-1
+$endlist
+$component C105
+ SM*
+ C?
+ C1-1
+$endlist
+$component C106
+ SM*
+ C?
+ C1-1
+$endlist
+$component C107
+ CP*
+ SM*
+$endlist
+$component C108
+ CP*
+ SM*
+$endlist
+$component C109
+ CP*
+ SM*
+$endlist
+$component C110
+ SM*
+ C?
+ C1-1
+$endlist
+$component C111
+ SM*
+ C?
+ C1-1
+$endlist
+$component C112
+ SM*
+ C?
+ C1-1
+$endlist
+$component C113
+ SM*
+ C?
+ C1-1
+$endlist
+$component C114
+ SM*
+ C?
+ C1-1
+$endlist
+$component C115
+ SM*
+ C?
+ C1-1
+$endlist
+$component C201
+ SM*
+ C?
+ C1-1
+$endlist
+$component C301
+ SM*
+ C?
+ C1-1
+$endlist
+$component C302
+ SM*
+ C?
+ C1-1
+$endlist
+$component C303
+ SM*
+ C?
+ C1-1
+$endlist
+$component C304
+ SM*
+ C?
+ C1-1
+$endlist
+$component C305
+ SM*
+ C?
+ C1-1
+$endlist
+$component C306
+ SM*
+ C?
+ C1-1
+$endlist
+$component C307
+ SM*
+ C?
+ C1-1
+$endlist
+$component C401
+ SM*
+ C?
+ C1-1
+$endlist
+$component C402
+ SM*
+ C?
+ C1-1
+$endlist
+$component C403
+ SM*
+ C?
+ C1-1
+$endlist
+$component C501
+ SM*
+ C?
+ C1-1
+$endlist
+$component C502
+ SM*
+ C?
+ C1-1
+$endlist
+$component C503
+ SM*
+ C?
+ C1-1
+$endlist
+$component D301
+ D?
+ SO*
+ SM*
+$endlist
+$component R101
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R102
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R103
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R104
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R105
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R106
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R107
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R108
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R301
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R302
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R303
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R304
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R401
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R402
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R403
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R404
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R501
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component U401
+ SO8E
+ SSOP8
+$endlist
+$endfootprintlist
+}
